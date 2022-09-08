@@ -1,0 +1,39 @@
+body{
+    margin: 8px;
+    background-color: burlywood;
+}
+h1{
+    color: black;
+    background-color: aqua;
+    font-size: 44px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 8px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.15);
+}
+p{
+    padding: 10px;
+    font-weight: 300;
+    margin: 8px;
+}
+img{
+    border: 5px solid black;
+    margin-left: 40px;
+}
+h3{
+    margin: 8px;
+    font-weight: bold;
+    margin-top: 16px;
+    font-size: 36px;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 4px;
+    margin: 8px;
+    line-height: 1.5rem;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+a:hover{
+    color: red;
+}
